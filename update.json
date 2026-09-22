@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/sanbao1/little-ghast-launcher/releases/download/v1.2.0/LittleGhastLauncher-v1.2.0-Setup.exe",
-  "notes": "v1.2.0：新增游戏外编辑游戏内服务器列表（servers.dat）功能；支持同一实例多开（多会话控制台、独立结束按钮）。"
+  "version": "1.2.1",
+  "url": "https://github.com/sanbao1/little-ghast-launcher/releases/download/v1.2.1/LittleGhastLauncher-v1.2.1-Setup.exe",
+  "notes": "v1.2.1：修复游戏内服务器列表读取失败（servers.dat 兼容 gzip 与未压缩两种格式，保留服务器图标/隐藏字段）；多开与控制台会话功能持续可用。"
 }
